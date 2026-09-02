@@ -14,7 +14,7 @@ RSS proposes privacy-bounded relational state, explicit models of dangerous tran
 
 A concise overview of the framework, architecture, safety pathways, and evaluation approach.
 
-[Download the RSS Design Brief v0.3.2](docs/RSS-Design-Brief-v0.3.2.pdf)
+[Download the RSS Design Brief v0.3.2](Relational-State-Safety-Design-Brief-v0.3.2.pdf)
 
 ### Full working specification
 
